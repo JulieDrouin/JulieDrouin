@@ -48,7 +48,9 @@ Continuer de m'enrichir de connaissances dans le domaine du Web .
 - Suite Office
 - Trello 
 <hr/>
-### Contactez moi via : [<img src ="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/>](https://www.linkedin.com/in/julie-jourdrouin/)
+
+### Contactez moi via :
+[<img src ="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/>](https://www.linkedin.com/in/julie-jourdrouin/)
 
 <!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JulieDrouin) -->
 
