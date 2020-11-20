@@ -1,5 +1,5 @@
 
-[<img src ="https://img.shields.io/badge/author-Julie%20Drouin-blue?style=flat&labelColor=000000&color=ffb030"/>](https://github.com/JulieDrouin)
+[<img src="https://img.shields.io/badge/author-Julie%20Drouin-blue?style=flat&labelColor=000000&color=ffb030" align="center"/>](https://github.com/JulieDrouin)
 
 ### Bonjour à toutes et tous 👋
 
@@ -24,6 +24,7 @@ Continuer de m'enrichir de connaissances dans le domaine du Web .
 < 𝙊𝙣 𝙖𝙥𝙥𝙧𝙚𝙣𝙙 𝙘𝙝𝙖𝙦𝙪𝙚 𝙟𝙤𝙪𝙧 𝙦𝙪𝙚𝙡𝙦𝙪𝙚 𝙘𝙝𝙤𝙨𝙚 𝙙𝙚 𝙣𝙤𝙪𝙫𝙚𝙖𝙪, 𝙎𝙤𝙡𝙤𝙣 />
 <hr/>
 <br/>
+
 ### 💻 𝕃𝔸ℕ𝔾𝔸𝔾𝔼𝕊
 
 - HTML
