@@ -1,3 +1,5 @@
+https://img.shields.io/badge/author-Julie%20Drouin-blue?style=flat&labelColor=000000&color=ffb030
+
 ### Bonjour à toutes et tous 👋
 
 
@@ -10,10 +12,10 @@ Loin d'être le mouton à 5 pattes idéal, je m'auto-forme avec passion depuis 2
 🤜🤛 J’ai appris à travailler avec la pédagogie de l’école Epitech, à savoir un apprentissage en autonomie et également de nombreux projets en groupe.
 Et ma deuxième année en alternance au sein d'une équipe bienveillante à travers les outils suivant : Node.js, une base de données MySQL, un client React.js, sur un rythme de 3 semaines /1 semaine.
 
-### 📣 Curieuse et patiente, je recherche actuellement une alternance à partir du mois de Décembre, en tant que Développeuse Web Full-Stack, pour le titre de Conceptrice développeuse d’applications, au rythme de trois semaines en entreprise et une semaine en formation.
-
 
 ### 🎯 𝕄𝔼𝕊 𝕆𝔹𝕁𝔼ℂ𝕋𝕀𝔽𝕊
+
+Je recherche actuellement une alternance à partir du mois de Décembre, en tant que Développeuse Web Full-Stack, pour le titre de Conceptrice développeuse d’applications, au rythme de trois semaines en entreprise et une semaine en formation.
 
 Continuer de m'enrichir de connaissances dans le domaine du Web .
 < 𝙊𝙣 𝙖𝙥𝙥𝙧𝙚𝙣𝙙 𝙘𝙝𝙖𝙦𝙪𝙚 𝙟𝙤𝙪𝙧 𝙦𝙪𝙚𝙡𝙦𝙪𝙚 𝙘𝙝𝙤𝙨𝙚 𝙙𝙚 𝙣𝙤𝙪𝙫𝙚𝙖𝙪, 𝙎𝙤𝙡𝙤𝙣 />
@@ -43,5 +45,5 @@ Continuer de m'enrichir de connaissances dans le domaine du Web .
 - Suite Office
 - Trello 
 
-### Contactez moi via : [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](/https://www.linkedin.com/in/julie-jourdrouin/)
+### Contactez moi via : [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue) LinkedIn](/https://www.linkedin.com/in/julie-jourdrouin/)
 
