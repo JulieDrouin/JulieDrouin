@@ -20,9 +20,10 @@ Je recherche actuellement une alternance à partir du mois de Décembre, en tant
 
 Continuer de m'enrichir de connaissances dans le domaine du Web .
 <br/>
+<br/>
 < 𝙊𝙣 𝙖𝙥𝙥𝙧𝙚𝙣𝙙 𝙘𝙝𝙖𝙦𝙪𝙚 𝙟𝙤𝙪𝙧 𝙦𝙪𝙚𝙡𝙦𝙪𝙚 𝙘𝙝𝙤𝙨𝙚 𝙙𝙚 𝙣𝙤𝙪𝙫𝙚𝙖𝙪, 𝙎𝙤𝙡𝙤𝙣 />
 <hr/>
-
+<br/>
 ### 💻 𝕃𝔸ℕ𝔾𝔸𝔾𝔼𝕊
 
 - HTML
