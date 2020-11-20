@@ -19,7 +19,9 @@ Et ma deuxième année en alternance au sein d'une équipe bienveillante à trav
 Je recherche actuellement une alternance à partir du mois de Décembre, en tant que Développeuse Web Full-Stack, pour le titre de Conceptrice développeuse d’applications, au rythme de trois semaines en entreprise et une semaine en formation.
 
 Continuer de m'enrichir de connaissances dans le domaine du Web .
-< 𝙊𝙣 𝙖𝙥𝙥𝙧𝙚𝙣𝙙 𝙘𝙝𝙖𝙦𝙪𝙚 𝙟𝙤𝙪𝙧 𝙦𝙪𝙚𝙡𝙦𝙪𝙚 𝙘𝙝𝙤𝙨𝙚 𝙙𝙚 𝙣𝙤𝙪𝙫𝙚𝙖𝙪, 𝙎𝙤𝙡𝙤𝙣 />
+<br/>;
+> < 𝙊𝙣 𝙖𝙥𝙥𝙧𝙚𝙣𝙙 𝙘𝙝𝙖𝙦𝙪𝙚 𝙟𝙤𝙪𝙧 𝙦𝙪𝙚𝙡𝙦𝙪𝙚 𝙘𝙝𝙤𝙨𝙚 𝙙𝙚 𝙣𝙤𝙪𝙫𝙚𝙖𝙪, 𝙎𝙤𝙡𝙤𝙣 />
+<hr/>;
 
 ### 💻 𝕃𝔸ℕ𝔾𝔸𝔾𝔼𝕊
 
@@ -45,8 +47,8 @@ Continuer de m'enrichir de connaissances dans le domaine du Web .
 - Teams
 - Suite Office
 - Trello 
-
+<hr/>;
 ### Contactez moi via : [<img src ="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/>](https://www.linkedin.com/in/julie-jourdrouin/)
 
-<--!![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JulieDrouin) >
+<!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JulieDrouin) -->
 
