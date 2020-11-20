@@ -1,4 +1,4 @@
-https://img.shields.io/badge/author-Julie%20Drouin-blue?style=flat&labelColor=000000&color=ffb030
+[![](https://img.shields.io/badge/author-Julie%20Drouin-blue?style=flat&labelColor=000000&color=ffb030)]
 
 ### Bonjour à toutes et tous 👋
 
@@ -45,5 +45,5 @@ Continuer de m'enrichir de connaissances dans le domaine du Web .
 - Suite Office
 - Trello 
 
-### Contactez moi via : [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue) LinkedIn](/https://www.linkedin.com/in/julie-jourdrouin/)
+### Contactez moi via : [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue) LinkedIn]
 
