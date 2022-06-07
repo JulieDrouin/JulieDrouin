@@ -16,9 +16,7 @@ Je suis actuellement en contrat de professionnalisation en tant que Développeus
 
 ### 🎯 𝕄𝔼𝕊 𝕆𝔹𝕁𝔼ℂ𝕋𝕀𝔽𝕊
 
-Je recherche actuellement une alternance à partir du mois de mai, en tant que Développeuse Web, pour le titre de Conceptrice développeuse d’applications, au rythme de trois semaines en entreprise et une semaine en formation.
-
-Continuer de m'enrichir de connaissances dans le domaine du Web .
+Continuer de m'enrichir de connaissances dans le domaine du Web et participer à un projet qui a du sens.
 <br/>
 <br/>
 < 𝙊𝙣 𝙖𝙥𝙥𝙧𝙚𝙣𝙙 𝙘𝙝𝙖𝙦𝙪𝙚 𝙟𝙤𝙪𝙧 𝙦𝙪𝙚𝙡𝙦𝙪𝙚 𝙘𝙝𝙤𝙨𝙚 𝙙𝙚 𝙣𝙤𝙪𝙫𝙚𝙖𝙪, 𝙎𝙤𝙡𝙤𝙣 />
